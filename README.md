@@ -6,7 +6,7 @@ This repository contains the reproducible implementation for the HD machine lear
 
 ## Repository contents
 
-- `HD_Task_Heart_Attack_FINAL_EXECUTED.ipynb` — main Jupyter notebook containing the reproduction study and proposed improved method.
+- `11.1 hd task.ipynb` — main Jupyter notebook containing the reproduction study and proposed improved method.
 - `heart.csv` — heart disease dataset used by the notebook.
 - `requirements.txt` — Python package requirements.
 - `README.md` — installation and execution instructions.
