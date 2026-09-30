@@ -95,7 +95,3 @@ The workflow includes:
 ## Python environment
 
 The project requires Python 3 and the libraries listed in `requirements.txt`.
-
-## Academic integrity / GenAI acknowledgement
-
-Any use of Generative AI for planning, brainstorming, code assistance or editing should be acknowledged in the final report according to Deakin University academic integrity requirements. The student remains responsible for understanding, reviewing and validating all submitted work.
