@@ -68,7 +68,7 @@ jupyter notebook
 
 Open:
 
-`HD_Task_Heart_Attack_FINAL_EXECUTED.ipynb`
+`11.1 hd task.ipynb`
 
 Then select **Kernel → Restart & Run All** (or **Run All**) to reproduce the notebook outputs.
 
